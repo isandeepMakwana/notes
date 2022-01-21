@@ -1,8 +1,4 @@
 # cp-luv-notes
-# cp-luv-notes
-# cp-luv-notes
-# cp-notes
-# cp-notes
-# cp-notes
-# cp-notes
-# cp-luv-notes
+git remote add origin https://github.com/isandeepMakwana/cp-luv-notes.git
+git branch -M main
+git push -u origin main
